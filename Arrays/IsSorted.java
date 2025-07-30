@@ -9,7 +9,7 @@ public class IsSorted {
             if(arr[i-1]>arr[i]){
                 istrue=false;
             }
-        }
+        }      
         System.err.println(istrue);
     }
 }
